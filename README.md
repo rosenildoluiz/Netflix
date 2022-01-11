@@ -1,4 +1,5 @@
-# Netflix
+Recriando a interface da NETFLIX  ao meu gosto :)
 
 
-<img src='https://github.com/rosenildoluiz/NETFLIX/blob/master/public/ANIMEFLIX.png?raw=true' />
+![ANIMEFLIX](https://user-images.githubusercontent.com/95148036/148936442-2347256d-1680-436f-be9e-3e28c277c531.png)
+
